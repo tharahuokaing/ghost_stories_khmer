@@ -3,7 +3,7 @@
 
 # 👻 Ghost Stories Khmer (រឿងខ្មោច និងរឿងព្រេងតំណាលខ្មែរ)
 
-> 📖 Author & Creator: **Mr. Chorn Rothanak (លោក ជອນ រតនៈ)**  
+> 📖 Author & Creator: **Mr. Chorn Rothanak (លោក ជន រតនៈ)**  
 > 🌌 Presented by: **UNIVERSE HUOKAING THARA Group**  
 > 🇰🇭 Language: Dual Language Support — Khmer (ខ្មែរ) & English  
 
@@ -18,11 +18,11 @@
 
 ## 🎯 About the Project / អំពីគម្រោង
 
-**Ghost Stories Khmer** គឺជាបណ្តុំសាច់រឿងព្រេងនិទាន រឿងខ្មោចព្រាយបិសាច និងជំនឿអរូបិយបុរាណ Khmer Folk Horror ចងក្រង និងរៀបរៀងដោយ **លោក ជອນ រតនៈ (Mr. Chorn Rothanak)**។ គម្រោងនេះមានគោលបំណងលើកកម្ពស់ការអាន អភិរក្សរឿងព្រេងបុរាណខ្មែរ និងផ្តល់នូវបទពិសោធន៍កម្សាន្តបែបញាប់ញ័រតាមរយៈប្រព័ន្ធវេបសាយឌីជីថលទំនើប។
+**Ghost Stories Khmer** គឺជាបណ្តុំសាច់រឿងព្រេងនិទាន រឿងខ្មោចព្រាយបិសាច និងជំនឿអរូបិយបុរាណ Khmer Folk Horror ចងក្រង និងរៀបរៀងដោយ **លោក ជន រតនៈ (Mr. Chorn Rothanak)**។ គម្រោងនេះមានគោលបំណងលើកកម្ពស់ការអាន អភិរក្សរឿងព្រេងបុរាណខ្មែរ និងផ្តល់នូវបទពិសោធន៍កម្សាន្តបែបញាប់ញ័រតាមរយៈប្រព័ន្ធវេបសាយឌីជីថលទំនើប។
 
 ## ✨ Key Features / លក្ខណៈពិសេសចម្បង
 
-* **📖 Original Storytelling:** សម្រួល និងរៀបរៀងសាច់រឿងយ៉ាងលម្អិតដោយ លោក ជອນ រតនៈ (Mr. Chorn Rothanak)។
+* **📖 Original Storytelling:** សម្រួល និងរៀបរៀងសាច់រឿងយ៉ាងលម្អិតដោយ លោក ជន រតនៈ (Mr. Chorn Rothanak)។
 * **🌐 Dual Language Support:** គាំទ្រការអានជាពីរភាសា (ខ្មែរ និង អង់គ្លេស)។
 * **🌙 Dark Mode & Spooky Aesthetic:** ការរចនាបែប Cyberpunk-Gothic Dark Theme មានភាពទាក់ទាញ និងមិនប៉ះពាល់ភ្នែកពេលអានយប់។
 * **🔊 Synthetic Audio Narrator:** ប្រព័ន្ធអានសំឡេងស្វ័យប្រវត្តិនូវសាច់រឿងសម្រាប់អ្នកចូលចិត្តស្តាប់។
@@ -67,7 +67,7 @@ cd ghost-stories-khmer-chorn-rothanak
 
 © 2026 **Mr. Chorn Rothanak** & **UNIVERSE HUOKAING THARA Group**. All Rights Reserved.
 
-រក្សាសិទ្ធិគ្រប់យ៉ាងដោយ លោក ជອນ រតនៈ និង យូនិវើស ហួយកេង តារា គ្រុប។
+រក្សាសិទ្ធិគ្រប់យ៉ាងដោយ លោក ជន រតនៈ និង យូនិវើស ហួយកេង តារា គ្រុប។
 
 ```
 
